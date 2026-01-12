@@ -57,7 +57,8 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data to un
 - The 26–35 age group, especially females, contributes the highest sales
 
 🔹 State-wise Analysis
-- Highest sales and orders recorded from:
+
+  Highest sales and orders recorded from:
 - Uttar Pradesh
 - Maharashtra
 - Karnataka
@@ -69,7 +70,8 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data to un
 - Customers from IT, Healthcare, and Aviation sectors contribute maximum revenue
 
 🔹 Product Categories
-- Most sold and high-revenue categories:
+
+  Most sold and high-revenue categories:
 - Food
 - Clothing
 - Electronics
